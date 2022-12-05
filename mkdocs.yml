@@ -1,13 +1,13 @@
-site_name: GreenEarthOS
-site_url: https://greenearthos.org
-repo_url: https://github.com/hackforla/GreenEarthOS/
+site_name: test-mkdocks
+site_url: https://experimentsinhonesty.github.io/test-mkdocs/
+repo_url: https://github.com/experimentsinhonesty/test-mkdocs
 edit_uri: edit/main/docs
 
 theme:
   logo: assets/logo.png
   name: material
   palette:
-    scheme: green
+    scheme: Blue
   features:
     - navigation.tabs
     - navigation.tabs.sticky
